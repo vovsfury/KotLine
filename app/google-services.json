@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "527289741108",
+    "firebase_url": "https://kotline-95b2e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotline-95b2e",
+    "storage_bucket": "kotline-95b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527289741108:android:a9ef6443b94fe019a57f61",
+        "android_client_info": {
+          "package_name": "com.example.kotline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LbOCFFpsruDwEDhAMS032Yg7rxCtTbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
